@@ -5,6 +5,7 @@ import Footer from "./components/Footer";
 import FixedDeposit from "./components/FixedDeposit";
 import NDICWriteup from "./components/NDICWriteup";
 import FAQ from "./components/FAQ";
+import LearnMore from "./components/LearnMore";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <FixedDeposit />
       <NDICWriteup />
       <FAQ />
+      <LearnMore />
       <Footer />
     </div>
   );
